@@ -11,4 +11,4 @@ Firstly, they are known to be efficient, robust to outliers, and capture well th
 Secondly, the high-cardinality nature of the data is compatible with these choices.
 Another reason is the fact that these models are easy to program, and provide convenient tools to avoid overfitting including early stopping criteria.
 
-The full code can be found [here]([url](https://github.com/yonatansha/store-sales--time-series-forecasting/blob/main/store-sales-notebook%20(2).ipynb)).
+The full code can be found [here](https://github.com/yonatansha/store-sales--time-series-forecasting/blob/main/store-sales-notebook%20(2).ipynb).
